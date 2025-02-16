@@ -1,0 +1,11 @@
+C:\Users\erenb\source\repos\PointLibrary\PointLibrary\bin\Debug\net8.0\PointLibrary.deps.json
+C:\Users\erenb\source\repos\PointLibrary\PointLibrary\bin\Debug\net8.0\PointLibrary.dll
+C:\Users\erenb\source\repos\PointLibrary\PointLibrary\bin\Debug\net8.0\PointLibrary.pdb
+C:\Users\erenb\source\repos\PointLibrary\PointLibrary\obj\Debug\net8.0\PointLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erenb\source\repos\PointLibrary\PointLibrary\obj\Debug\net8.0\PointLibrary.AssemblyInfoInputs.cache
+C:\Users\erenb\source\repos\PointLibrary\PointLibrary\obj\Debug\net8.0\PointLibrary.AssemblyInfo.cs
+C:\Users\erenb\source\repos\PointLibrary\PointLibrary\obj\Debug\net8.0\PointLibrary.csproj.CoreCompileInputs.cache
+C:\Users\erenb\source\repos\PointLibrary\PointLibrary\obj\Debug\net8.0\PointLibrary.dll
+C:\Users\erenb\source\repos\PointLibrary\PointLibrary\obj\Debug\net8.0\refint\PointLibrary.dll
+C:\Users\erenb\source\repos\PointLibrary\PointLibrary\obj\Debug\net8.0\PointLibrary.pdb
+C:\Users\erenb\source\repos\PointLibrary\PointLibrary\obj\Debug\net8.0\ref\PointLibrary.dll
