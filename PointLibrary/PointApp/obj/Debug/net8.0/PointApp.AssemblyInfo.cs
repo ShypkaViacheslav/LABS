@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PointApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b4d1255925908d7f571396bbb5f5e9d50d3afb9")]
 [assembly: System.Reflection.AssemblyProductAttribute("PointApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PointApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

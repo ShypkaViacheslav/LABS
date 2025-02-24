@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\erenb\\source\\repos\\PointLibrary\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2E2B94F9-5519-4779-A0B5-FF4045CF227C}|PointApp\\PointApp.csproj|c:\\users\\erenb\\source\\repos\\pointlibrary\\pointapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E2B94F9-5519-4779-A0B5-FF4045CF227C}|PointApp\\PointApp.csproj|solutionrelative:pointapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1F601B67-D41E-458B-9766-E8A7E29CE3C0}|PointLibraryTests\\PointLibraryTests.csproj|c:\\users\\erenb\\source\\repos\\pointlibrary\\pointlibrarytests\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F601B67-D41E-458B-9766-E8A7E29CE3C0}|PointLibraryTests\\PointLibraryTests.csproj|solutionrelative:pointlibrarytests\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1F601B67-D41E-458B-9766-E8A7E29CE3C0}|PointLibraryTests\\PointLibraryTests.csproj|c:\\users\\erenb\\source\\repos\\pointlibrary\\pointlibrarytests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F601B67-D41E-458B-9766-E8A7E29CE3C0}|PointLibraryTests\\PointLibraryTests.csproj|solutionrelative:pointlibrarytests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E2B94F9-5519-4779-A0B5-FF4045CF227C}|PointApp\\PointApp.csproj|c:\\users\\erenb\\source\\repos\\pointlibrary\\pointapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E2B94F9-5519-4779-A0B5-FF4045CF227C}|PointApp\\PointApp.csproj|solutionrelative:pointapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D3D4F315-D023-41E1-A279-770ED819455A}|PointLibrary\\PointLibrary.csproj|c:\\users\\erenb\\source\\repos\\pointlibrary\\pointlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,24 +26,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Test1.cs",
               "DocumentMoniker": "C:\\Users\\erenb\\source\\repos\\PointLibrary\\PointLibraryTests\\Test1.cs",
               "RelativeDocumentMoniker": "PointLibraryTests\\Test1.cs",
               "ToolTip": "C:\\Users\\erenb\\source\\repos\\PointLibrary\\PointLibraryTests\\Test1.cs",
               "RelativeToolTip": "PointLibraryTests\\Test1.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA1wCUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T20:40:16.276Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T20:40:16.276Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MSTestSettings.cs",
               "DocumentMoniker": "C:\\Users\\erenb\\source\\repos\\PointLibrary\\PointLibraryTests\\MSTestSettings.cs",
               "RelativeDocumentMoniker": "PointLibraryTests\\MSTestSettings.cs",
@@ -51,12 +50,11 @@
               "RelativeToolTip": "PointLibraryTests\\MSTestSettings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T20:40:08.85Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T20:40:08.85Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\erenb\\source\\repos\\PointLibrary\\PointApp\\Program.cs",
               "RelativeDocumentMoniker": "PointApp\\Program.cs",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "PointLibrary\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T20:15:00.323Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T20:15:00.323Z"
             }
           ]
         }
